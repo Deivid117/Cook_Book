@@ -1,5 +1,10 @@
 <h1 align="center"> :man_cook: COOK BOOK :hamburger: </h1>
 
+![Dart Version](https://img.shields.io/badge/dart-v3.4.1-blue?logo=dart&style=flat-square)
+![Flutter Version](https://img.shields.io/badge/flutter-v3.22.1-blue?logo=flutter&style=flat-square)
+![Image Picker Version](https://img.shields.io/badge/image__picker-v1.1.1-blue?logo=flutter&style=flat-square)
+![Cupertino Icons Version](https://img.shields.io/badge/cupertino__icons-v1.0.6-blue?logo=flutter&style=flat-square)
+
 ## Descripción :open_book:
 
 El proyecto es una aplicación móvil Dart diseñada con Flutter, la cual fue realizada durante el [Curso de Flutter y Dart](https://videocursos.co/linea/curso-de-flutter-y-dart/.). La aplicación trata de un manual de cocina donde diferentes usuarios almacenan sus recetas de diversos platillos, con la posibilidad de gestionar sus recetas o modificar la información de su perfil, de igual manera se pueden registrar nuevos usuarios y compartir sus deliciosas recetas.
@@ -13,6 +18,8 @@ La aplicación funciona mediante un fake backend proporcionado por el curso e in
 Cada usuario puede crear su propia receta o editar las que ya tiene. ¡Comparte con tus amigos tus mejores platillos y sorpréndelos con tu sazón! :cook: :yum:.
 
 * **Recetas favoritas**:<br>
+
+Marca como favorita alguna de las recetas de tu agrado.
 
 * **Gestión de perfil**:<br>
 
@@ -37,24 +44,20 @@ El proyecto cuenta con una estructura bastante básica de acuerdo a la complejid
 
 ## Requisitos :bookmark_tabs:
 
-1. Android Studio Jellyfish | 2023.3.1 o superior
-2. Gradle Version 7.5
-3. Kotlin 1.8.10
-4. Android API 24 o superior (Android 7+)
-5. API Key
+1. Visual Studio Code 1.93.1
 
 ## Instalación :arrow_down:
 
 1. Clona el repositorio:
    ```
-    git clone https://github.com/Deivid117/Games-App.git
-2. Obtén tu API Key :key: registrándote en la siguiente página
-https://rawg.io/apidocs
+    git clone https://github.com/Deivid117/Cook_Book.git
+2. Descargar los archivos del fake backend
 
-3. Agrega tu API Key en el archivo ***local.properties*** de esta manera<br>
-***API_KEY="tu api key"***
-
-4. Ejecuta el proyecto :rocket:
+3. En el proyecto, en el archivo *pubspec.yaml* coloca la ruta del proyecto backend
+   ```   
+   flutter_modulo1_fake_backend:
+    path: "tu ruta"
+3. Compila y ejecuta el proyecto :rocket:
 
 ## Capturas :camera:
 
