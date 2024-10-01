@@ -1,9 +1,13 @@
 <h1 align="center"> :man_cook: COOK BOOK :hamburger: </h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0362595-334a-4f01-8ada-ade9ac547744" alt="Descripción de la imagen" width="300">
+</p>
+
 ![Dart Version](https://img.shields.io/badge/dart-v3.4.1-blue?logo=dart&style=flat-square)
-![Flutter Version](https://img.shields.io/badge/flutter-v3.22.1-blue?logo=flutter&style=flat-square)
-![Image Picker Version](https://img.shields.io/badge/image__picker-v1.1.1-blue?logo=flutter&style=flat-square)
-![Cupertino Icons Version](https://img.shields.io/badge/cupertino__icons-v1.0.6-blue?logo=flutter&style=flat-square)
+![Flutter Version](https://img.shields.io/badge/flutter-v3.22.1-lightblue?logo=flutter&style=flat-square)
+![Image Picker Version](https://img.shields.io/badge/image__picker-v1.1.1-salmon?logo=flutter&style=flat-square)
+![Cupertino Icons Version](https://img.shields.io/badge/cupertino__icons-v1.0.6-blueviolet?logo=flutter&style=flat-square)
 
 ## Descripción :open_book:
 
@@ -60,6 +64,18 @@ El proyecto cuenta con una estructura bastante básica de acuerdo a la complejid
 3. Compila y ejecuta el proyecto :rocket:
 
 ## Capturas :camera:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfdbd321-00fe-4d30-80d3-d2154898c3c5" alt="Descripción de la imagen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4bb37b3c-0705-42ca-b8c3-4545a9c43219" alt="Descripción de la imagen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d5c47fe-0893-4004-84bd-7aa16c8fff13" alt="Descripción de la imagen">
+</p>
 
 ## Video demostrativo :movie_camera:
 
