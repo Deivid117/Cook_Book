@@ -55,7 +55,7 @@ El proyecto cuenta con una estructura bastante básica de acuerdo a la complejid
 1. Clona el repositorio:
    ```
     git clone https://github.com/Deivid117/Cook_Book.git
-2. Descargar los archivos del fake backend
+2. Descargar los archivos del fake backend (próximamente link)
 
 3. En el proyecto, en el archivo *pubspec.yaml* coloca la ruta del proyecto backend
    ```   
@@ -78,6 +78,10 @@ El proyecto cuenta con una estructura bastante básica de acuerdo a la complejid
 </p>
 
 ## Video demostrativo :movie_camera:
+
+<a href="https://drive.google.com/file/d/1dKls_ehmyqTo8ucH-1AlA2ci39zMC9CH/view?usp=sharing">
+  <img src="https://github.com/user-attachments/assets/c0c63204-f0f2-40d5-beca-0eba4f9e5c7f" alt="Cook book app video"/>
+</a>
 
 ## Autor :man_technologist:
 
